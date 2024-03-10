@@ -1,0 +1,2 @@
+# pages
+Some public pages
