@@ -1,4 +1,4 @@
-## Privacy Policy
+## Notifications Cooler Privacy Policy
 
 **Effective Date:** 2024-03-10
 
