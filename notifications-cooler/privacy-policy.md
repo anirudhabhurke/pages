@@ -2,7 +2,7 @@
 
 **Effective Date:** 2024-03-10
 
-This privacy policy ("Policy") describes how [Notifications Cooler] ("App" or "we") collects, uses, and discloses your information in connection with your use of our mobile application.
+This privacy policy ("Policy") describes how Notifications Cooler ("App" or "we") collects, uses, and discloses your information in connection with your use of our mobile application.
 
 **Information We Collect**
 
