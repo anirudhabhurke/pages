@@ -1,2 +1,1 @@
-# pages
-Some public pages
+# Anirudh Apps
