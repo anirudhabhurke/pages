@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
 #header {
-     position: static;
+     height: 0px;
+     overflow: hidden;
+}
+body > div.wrapper > section {
+     margin-top: 0px;
 }
